@@ -8,7 +8,7 @@ As a junior iOS developer, I'm just getting started with the iOS SDK and Apple's
 
 * 🌍  I'm based in Toronto, ON, Canada
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/amrit-ghale-a82bab160/)
-* ✉️  You can contact me at [amritghale006@gmail.com](mailto:amritghale006@gmail.com)
+* ✉️  You can contact me at [amritghale9810@gmail.com](mailto:amritghale006@gmail.com)
 * 🚀  I'm currently working on [API's and SwiftUI](http://developer.apple.com/tutorials/swiftui)
 * 🧠  I'm learning Swift Programming and Objective-C
 * 🤝  I'm open to collaborating on iOS project . Anything on designing . Content Creating and Editing.
