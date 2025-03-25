@@ -21,7 +21,7 @@ I'm a passionate iOS developer with a creative edge, specializing in building be
 
 ### 🛠 Tech Stack
 
-<div align="center">
+<div align="left">
 
 #### 📱 Mobile Development
 `Swift` `SwiftUI` `UIKit` `Objective-C` `Combine` `Core Data` `ARKit`
@@ -41,7 +41,7 @@ I'm a passionate iOS developer with a creative edge, specializing in building be
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amrit-ghale&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amrit-ghale&theme=radical&hide_border=true" alt="GitHub Streak" /> |
 | ------------- | ------------- |
@@ -54,80 +54,178 @@ I'm a passionate iOS developer with a creative edge, specializing in building be
 
 ### 🏆 GitHub Achievements
 
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amrit-ghale&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="left">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Amrit-ghale&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ---
 
 ### 🎨 Design & Development Skills
 
-<div align="center">
-SwiftUI Development ██████████ 100%
-UI/UX Design █████████░ 90%
-API Integration ████████░░ 80%
-Motion Graphics ███████░░░ 70%
-Illustration ██████░░░░ 60%
-
-
+<div align="left">
+  <table>
+    <tr>
+      <th>Skill</th>
+      <th>Progress</th>
+    </tr>
+    <tr>
+      <td>SwiftUI Development</td>
+      <td>██████████ 100%</td>
+    </tr>
+    <tr>
+      <td>UI/UX Design</td>
+      <td>█████████░ 90%</td>
+    </tr>
+    <tr>
+      <td>API Integration</td>
+      <td>████████░░ 80%</td>
+    </tr>
+    <tr>
+      <td>Motion Graphics</td>
+      <td>███████░░░ 70%</td>
+    </tr>
+    <tr>
+      <td>Illustration</td>
+      <td>██████░░░░ 60%</td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
 ### 💡 Coding Philosophy
 
-<div class="diff-container">
-+ Clean, maintainable code is art
-+ User experience comes first
-+ Always learning, always growing
-+ Open source = open opportunities
-! Currently exploring SwiftUI animations
-# "First solve the problem, then write the code" - John Johnson
+- Clean, maintainable code is art
+- User experience comes first
+- Always learning, always growing
+- Open source = open opportunities
+- Currently exploring SwiftUI animations
+
+**"First solve the problem, then write the code" - John Johnson**
+
+---
+
+### 🚀 Current Projects
+
+<div align="left">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Status</th>
+      <th>Technologies Used</th>
+    </tr>
+    <tr>
+      <td>WeatherApp</td>
+      <td>In Progress</td>
+      <td>SwiftUI, Combine, Core Location</td>
+    </tr>
+    <tr>
+      <td>DesignKit</td>
+      <td>Completed</td>
+      <td>SwiftUI, UIKit, Lottie</td>
+    </tr>
+    <tr>
+      <td>ContentManager</td>
+      <td>In Progress</td>
+      <td>React, Node.js, MongoDB</td>
+    </tr>
+    <tr>
+      <td>Portfolio Website</td>
+      <td>Upcoming</td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+  </table>
 </div>
 
 
+
 ---
 
-###🌱 Current Focus
-
-<div class="swift">
-struct CurrentFocus {
-    let swiftUI = Progress(level: .advanced)
-    let combineFramework = Progress(level: .intermediate)
-    let uiDesign = Progress(level: .advanced)
-    let backendIntegration = Progress(level: .beginner)
-    
-    enum ProgressLevel: String {
-        case beginner = "★★☆☆☆"
-        case intermediate = "★★★☆☆"
-        case advanced = "★★★★☆"
-        case expert = "★★★★★"
-    }
-}
+<div align="left">
+  <h3>🎲 Fun Facts About Me</h3>
+  <p>☕ Coffee enthusiast with a growing mug collection</p>
+  <p>🎮 Retro gaming fanatic (SNES era)</p>
+  <p>🎸 Learning guitar - currently stuck on barre chords</p>
+  <p>🌱 Plant parent (somehow keeping them alive)</p>
+  <p>📚 Tech book collector (mostly iOS and design)</p>
+  <p>🧘‍♂️ Trying to meditate daily (emphasis on trying)</p>
 </div>
 
 ---
 
-###🚀 Featured Projects
-
-<div align="center">
-Project	Description	Technologies Used
-WeatherApp	Beautiful weather application	SwiftUI, Combine, Core Location
-DesignKit	UI components library	SwiftUI, UIKit, Lottie
-ContentManager	CMS for creators	React, Node.js, MongoDB
+<div align="left">
+  <h3>🎨 Skills & Progress</h3>
+  <table>
+    <tr>
+      <th>Skill</th>
+      <th>Progress</th>
+    </tr>
+    <tr>
+      <td>SwiftUI Development</td>
+      <td>██████████ 100%</td>
+    </tr>
+    <tr>
+      <td>UI/UX Design</td>
+      <td>█████████░ 90%</td>
+    </tr>
+    <tr>
+      <td>API Integration</td>
+      <td>████████░░ 80%</td>
+    </tr>
+    <tr>
+      <td>Motion Graphics</td>
+      <td>███████░░░ 70%</td>
+    </tr>
+    <tr>
+      <td>Illustration</td>
+      <td>██████░░░░ 60%</td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-###🎲 Fun Facts About Me
+<div align="left">
+  <h3>💡 Coding Philosophy</h3>
+  <p>Clean, maintainable code is art</p>
+  <p>User experience comes first</p>
+  <p>Always learning, always growing</p>
+  <p>Open source = open opportunities</p>
+  <p>Currently exploring SwiftUI animations</p>
+  <p>"First solve the problem, then write the code" - John Johnson</p>
+</div>
 
-<div align="center">
-☕ Coffee enthusiast with a growing mug collection
-🎮 Retro gaming fanatic (SNES era)
-🎸 Learning guitar - currently stuck on barre chords
-🌱 Plant parent (somehow keeping them alive)
-📚 Tech book collector (mostly iOS and design)
-🧘‍♂️ Trying to meditate daily (emphasis on trying)
 ---
 
-  
-print("Life motto: Code, Design, Repeat")
+<div align="left">
+  <h3>🌱 Current Focus</h3>
+  <table>
+    <tr>
+      <th>Focus Area</th>
+      <th>Progress</th>
+    </tr>
+    <tr>
+      <td>SwiftUI Development</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Combine Framework</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>UI Design</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Backend Integration</td>
+      <td>★★☆☆☆</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="left">
+  <p>print("Life motto: Code, Design, Repeat")</p>
+</div>
